@@ -1,5 +1,9 @@
-# final_proyect
-This is the sprint 7 final proyect, it is a very simple application where we can analyse the us car market.
-We can see the histogram of the odometer values and the relationship between price and the odometer´s value.
-https://final-proyect-hxre.onrender.com/
+# First_application_deploy
+Project overview:
+A web-based interactive dashboard built to visualize and explore data through a simple user interface.
+
+Problem it solves:
+The project addresses the challenge of developing, versioning, and deploying a data-driven web application to the cloud, enabling users to interact with data visualizations via a browser without running code locally.
+
+Link to the app: https://final-proyect-hxre.onrender.com/
 
